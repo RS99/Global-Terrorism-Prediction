@@ -27,10 +27,18 @@ This project leverages **Machine Learning** to analyze **global terrorism data**
   - Bar charts for top terrorist groups
   - Attack location maps (Colored by **terrorist group**)
 - **📄 Model Evaluation Results:**
+- a.	Using big dataset: 
   | Model | Accuracy | F1 Score |
   |--------|------------|-------------|
-  | Scikit-learn Random Forest | 92.3% | 91.8% |
-  | Custom Random Forest | 88.7% | 87.9% |
+  | Scikit-learn Random Forest | 94.1% | 94.1% |
+  | Custom Random Forest | 88.8% | 87.8% |
+
+b.	Using sample dataset:
+| Model | Accuracy | F1 Score |
+  |--------|------------|-------------|
+  | Scikit-learn Random Forest | 94.2% | 94.2% |
+  | Custom Random Forest | 85.3% | 85.3% |
+
 
 ## **⚡ Installation & Setup**
 ### **1️⃣ Clone the Repository**
