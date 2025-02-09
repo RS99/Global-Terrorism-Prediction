@@ -81,8 +81,8 @@ This project is **open-source** under the **MIT License**.
 
 ## **📬 Contact**
 For queries, reach out:
-📧 Email: [your_email@example.com](mailto:your_email@example.com)  
-🌍 GitHub: [yourusername](https://github.com/yourusername)
+📧 Email: [your_email@example.com](mailto:rahulsharma26078@gmail.com)  
+🌍 GitHub: [yourusername](https://github.com/RS99)
 
 ---
 ### **🚀 Next Steps**
