@@ -82,7 +82,7 @@ This project is **open-source** under the **MIT License**.
 ## **📬 Contact**
 For queries, reach out:
 📧 Email: [rahulsharma26078@gmail.com](mailto:rahulsharma26078@gmail.com)  
-🌍 GitHub: [yourusername](https://github.com/RS99)
+🌍 GitHub: RS99(https://github.com/RS99)
 
 ---
 ### **🚀 Next Steps**
