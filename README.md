@@ -71,7 +71,7 @@ pip install -r requirements.txt
 
 ## **📷 Visuals**
 ### 📍 **Example of an Attack Map (Colored by Terrorist Group)**
-![Attack Map](images/terror_map.png)
+![Attack Map](Map_visualization_of_success_and_groupname_after_predicrion.png)
 
 ## **🤝 Contributing**
 Want to contribute? **Fork the repo** and submit a pull request with improvements!
